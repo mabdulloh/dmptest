@@ -1,0 +1,1 @@
+INSERT INTO m_user (username, password) VALUES ('abcd', '$2a$12$OSubUXcBvso5qTPvfIM1nuX5jTBjnbdWmCI9q9nsjQg0uzPQ40oKm')
